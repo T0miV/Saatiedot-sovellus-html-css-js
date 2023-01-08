@@ -1,0 +1,32 @@
+body {
+    
+    width: 960px;
+    margin: auto;
+    background: lightblue;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+}
+
+.header {
+
+    padding: auto;
+    display: inline-block;
+    margin-top: 20px;
+    width: 940px;
+    text-align: center;
+    background: rgba(71, 177, 238, 0.63);
+    height: 160px;
+    border: 10px solid black;
+    font-size: 30px;
+    border-radius: 20px;
+    
+}
+.card{
+    background-color: lightblue;
+    border: 5px;
+    border-color: black;
+}
