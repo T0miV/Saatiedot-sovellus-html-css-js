@@ -26,7 +26,19 @@ body {
     
 }
 .card{
-    background-color: lightblue;
-    border: 5px;
-    border-color: black;
+    
+    margin-top: 20px;
+    width: 940px;
+    text-align: center;
+    background: rgba(71, 177, 238, 0.63);
+    height: 500px;
+    border: 10px solid black;
+    font-size: 30px;
+    border-radius: 20px;
+}
+.search-bar{
+    margin-top: 10px;
+    width: 500px;
+    height: 40px;
+    font-size: 30px;
 }
